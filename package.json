@@ -1,0 +1,27 @@
+{
+  "name": "hubot-future-messages-campfire",
+  "version": "0.0.1",
+  "author": "Gabe Berke-Williams",
+  "description": "Send messages to people currently not in the room",
+  "keywords": [
+    "hubot",
+    "campfire",
+    "chat",
+    "bot"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/gabebw/hubot-future-messages-campfire/raw/master/LICENSE"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/gabebw/hubot-future-messages-campfire"
+  },
+  "license": "MIT",
+  "main": "./src/future",
+  "dependencies": {
+    "underscore": "~1.4"
+  }
+}
