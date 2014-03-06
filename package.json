@@ -1,6 +1,6 @@
 {
   "name": "hubot-future-messages-campfire",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Gabe Berke-Williams",
   "description": "Send messages to people currently not in the room",
   "keywords": [

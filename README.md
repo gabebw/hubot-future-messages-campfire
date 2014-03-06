@@ -13,6 +13,20 @@ that when NAME enters the room. So this:
 
 would be relayed to Joe when he enters the room.
 
+## Installation
+
+Add the package `hubot-future-messages-campfire` as a dependency in your Hubot `package.json` file:
+
+    "dependencies": {
+      // ....
+      "hubot-future-messages-campfire": ">= 0"
+    }
+
+To enable the script, add the `hubot-future-messages-campfire` entry to the
+`external-scripts.json` file:
+
+    ["hubot-future-messages-campfire"]
+
 ## Bugs
 
 The package finds the first match that contains the target name. So if a message
